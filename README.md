@@ -9,7 +9,8 @@ Converts to x,y,z position on a unit sphere to latitude,longitude.
 ```javascript
 var xyzToLatLon = require('xyz-to-latlon')
 
-var coord = xyzToLatLon([ 0.3205275104690484, 0.9463475651510074, -0.04109015654964044 ])
+//
+var coord = xyzToLatLon([ 0.6224144446694938, 0.7826866171599899, 0.0013850579111009925 ])
 //[51.507222, -0.1275]
 ```
 
