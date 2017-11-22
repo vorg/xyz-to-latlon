@@ -1,6 +1,6 @@
 {
   "name": "xyz-to-latlon",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Converts x,y,z position on a unit sphere to latutude,longitude",
   "main": "index.js",
   "license": "MIT",
