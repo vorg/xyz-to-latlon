@@ -10,7 +10,9 @@
     "url": "https://github.com/vorg"
   },
   "dependencies": {},
-  "devDependencies": {},
+  "devDependencies": {
+    "latlon-to-xyz": "^1.0.1"
+  },
   "scripts": {
     "test": "node test.js"
   },
